@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olaa! Eu sou Rebeca Santos👋😊 <div>
+<img align="right" alt="Beca" height="300" width="300" src="https://cdn.discordapp.com/attachments/909888384800002110/999126889983643668/download20220702120020.png">
 
-<!--
-**rsbeca/rsbeca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rsbeca_)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rsbeca)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rsbeca/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Rebeca GitHub stats](https://github-readme-stats.vercel.app/api?username=rsbeca&show_icons=true&theme=cobalt)    
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rsbeca&theme=cobalt)](https://github.com/rsbeca/github-readme-stats)
+
+- 👻 Estagiando no momento de Suporte Técnico;                      
+- 📚 Cursando Sistemas de Informação;
+- 🦋 Ainda descobrindo qual área seguir; 
+- 🫵 Se tem algo pra agregar sobre a área pode me chamar nas minhas redes :)
+
+ ![Snake animation](https://github.com/rsbeca/rsbeca/blob/output/github-contribution-grid-snake.svg)
+
