@@ -1,4 +1,4 @@
-### Olaa! Eu sou Rebeca Santos👋😊 <div>
+### Olaa! Eu sou Rebeca👋😊 <div>
 <img align="right" alt="Beca" height="300" width="300" src="https://cdn.discordapp.com/attachments/909888384800002110/999126889983643668/download20220702120020.png">
 
 
