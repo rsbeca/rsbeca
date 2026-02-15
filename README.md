@@ -8,11 +8,8 @@
 
 ![Rebeca GitHub stats](https://github-readme-stats.vercel.app/api?username=rsbeca&show_icons=true&theme=cobalt)    
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rsbeca&theme=cobalt)](https://github.com/rsbeca/github-readme-stats)
-
-- 👻 Estagiando no momento de Suporte Técnico;                      
-- 📚 Cursando Sistemas de Informação;
-- 🦋 Ainda descobrindo qual área seguir; 
-- 🫵 Se tem algo pra agregar sobre a área pode me chamar nas minhas redes :)
+                   
+- 📚 Formada em Sistemas de Informação;
 
  ![Snake animation](https://github.com/rsbeca/rsbeca/blob/output/github-contribution-grid-snake.svg)
 
